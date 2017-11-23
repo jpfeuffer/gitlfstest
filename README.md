@@ -1,2 +1,2 @@
 # gitlfstest
-testing lfs
+testing lfs. foo!
